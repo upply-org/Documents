@@ -1,5 +1,7 @@
-## Format
 
+# Commit message guidelines
+
+## Format
 ```
 <type>(optional scope): <short summary>
 ```
